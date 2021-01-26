@@ -30,7 +30,7 @@ Es necesario descargar el paquete Chebfun https://www.chebfun.org/.
 - compare_qlm_chebfun_ode45.m (compara el algoritmo QLM, la solución mediante el paquete Cehbfun y ode45)
 - compare_slm_ode45.m (compara el algoritmo SLM y ode45)
 
-##### Aachivos para generar las figuras:
+##### Archivos para generar las figuras:
 - Figura 2.1: chebfun_lane_emden.m
 - Figura 3.1: fdm_vs_spectral.m
 - Figura 3.2: chebyshev_polynomials.m

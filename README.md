@@ -14,8 +14,8 @@ Es necesario descargar el paquete Chebfun https://www.chebfun.org/.
   - slm_transform.m
   - cheb.m  (para computar la matriz de diferenciación de primer orden)
   - cheb2.m (para computar la matriz de diferenciación de segundo orden)
-- test_slm.m (test del SLM)
-- test_slm_2.m (test del SLM)
+  - test_slm.m (test del SLM)
+  - test_slm_2.m (test del SLM)
 
 ##### Archivos relativos al método de quasi-linealización sucesiva (QLM) para resolver la ecuacion de Lane-Emden:
 - qlm.m (implementación del algoritmo QLM)
